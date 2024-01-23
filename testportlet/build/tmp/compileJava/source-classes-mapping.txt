@@ -1,4 +1,0 @@
-testportlet/constants/TestportletPortletKeys.java
- testportlet.constants.TestportletPortletKeys
-testportlet/portlet/TestportletPortlet.java
- testportlet.portlet.TestportletPortlet
